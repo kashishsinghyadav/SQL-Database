@@ -1,6 +1,6 @@
 -- Recyclable and low fat product
 
-
+ 
 -------------+---------+
 | Column Name | Type    |
 +-------------+---------+
